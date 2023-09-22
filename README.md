@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AlphaNovel_TestCase
-
 Developed with Unreal Engine 5
 =======
 # alpha-nova-testcase
@@ -23,4 +20,3 @@ Developed with Unreal Engine 5
 * Окрім цього, поведінка фігур написана з використанням Behavior Tree та EQS
 
 ![зображення](https://github.com/PickDough/alpha-nova-testcase/assets/58230892/2c718ee6-bf31-4760-afd8-e5efa85c1635)
->>>>>>> 601d43023c2bbd8f49c683024a1e24ae1cf9afd2
