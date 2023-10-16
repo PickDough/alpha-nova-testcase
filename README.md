@@ -18,5 +18,8 @@ Developed with Unreal Engine 5
   * ColoredSubsystem
   * Character
 * Окрім цього, поведінка фігур написана з використанням Behavior Tree та EQS
+![зображення](https://github.com/PickDough/alpha-nova-testcase/assets/58230892/c2a72ac5-0b65-41a9-812f-61f6ba0687ec)
 
-![зображення](https://github.com/PickDough/alpha-nova-testcase/assets/58230892/2c718ee6-bf31-4760-afd8-e5efa85c1635)
+
+![зображення](https://github.com/PickDough/alpha-nova-testcase/assets/58230892/4a6a52bb-e6dc-4151-b1ae-3c1a84a7fead)
+
